@@ -7,9 +7,9 @@ To launch this app, follow these steps:
 1. Clone the repo and change into the directory:
 
 ```sh
-git clone git@github.com:dabit3/react-p2p-messaging.git
+git clone https://github.com/brennankapollock/P2P-Chat-App.git
 
-cd react-p2p-messaging
+cd P2P-Chat-App
 ```
 
 2. Install the dependencies
